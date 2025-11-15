@@ -1,0 +1,5 @@
+{
+  "name": "Kalkulator Sederhana",
+  "description": "Aplikasi kalkulator sederhana dengan antarmuka yang bersih dan modern untuk melakukan operasi aritmatika dasar. Aplikasi ini juga menyimpan riwayat perhitungan Anda.",
+  "requestFramePermissions": []
+}
